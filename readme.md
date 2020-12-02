@@ -1,0 +1,2 @@
+- This code is made only according to mobiles
+- If you use it in PC, then size may vary

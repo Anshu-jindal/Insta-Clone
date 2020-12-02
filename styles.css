@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  border-bottom: 1px solid lightgrey;
+  position: sticky;
+  top: 0;
+  background-color: #f8f8f8;
+}
+
+.camera {
+  height: 9%;
+  width: 9%;
+}
+
+.logo {
+  height: 25%;
+  width: 25%;
+  margin-left: 15%;
+}
+
+.search-direct-div {
+  display: flex;
+  justify-content: center;
+}
+
+.search {
+  height: 9%;
+  width: 9%;
+  margin-left: 15%;
+}
+
+.direct {
+  height: 9%;
+  width: 9%;
+  margin-left: 10px;
+  mix-blend-mode: multiply;
+}
+
+.content {
+  font-family: sans-serif;
+  color: #fa4205;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  height: 91vh;
+  font-weight: 400;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  border-top: 1px solid lightgrey;
+  position: sticky !important;
+  bottom: 0 !important;
+  padding-bottom: 5px;
+}
