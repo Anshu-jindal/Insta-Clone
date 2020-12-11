@@ -1,3 +1,5 @@
 - This code is made only according to mobiles
 - If you use it in PC, then size may vary
 - This only includes a header and a footer of Instagram
+- Go to https://anshu-jindal.github.io/Insta-Clone/ to see it in real
+- It was an internship assignment so haven't done much
